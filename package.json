@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/sirisregmi/points/issues"
   },
-  "homepage": "https://github.com/sirisregmi/points#readme"
+  "homepage": "https://github.com/sirisregmi/points#readme",
+  "dependencies": {
+    "fastify": "^3.21.3"
+  },
+  "devDependencies": {
+    "@types/node": "^16.9.2",
+    "@types/pino": "^6.3.11",
+    "typescript": "^4.4.3"
+  }
 }
